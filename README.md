@@ -6,3 +6,5 @@ This code will read character from Keyboard simulator and output it to RUN I/O t
 
 
 Enjoy :)
+
+Code's origin : http://msdl.cs.mcgill.ca/people/hv/teaching/ComputerArchitecture/lectures/exceptions_example.asm.txt
